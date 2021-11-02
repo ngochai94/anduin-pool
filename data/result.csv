@@ -36,3 +36,7 @@ season,win1,win2,lose1,lose2,tier
 9,nguyen,tuananh,hai,triet,sf
 9,nguyen,tuananh,cuong,ngheo,wf
 9,hai,triet,namanh,hiep,lf
+10,nguyen,namanh,hai,hiep,sf
+10,cuong,ngheo,triet,tuananh,sf
+10,cuong,ngheo,nguyen,namanh,wf
+10,triet,tuananh,hai,hiep,lf
